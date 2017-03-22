@@ -8,3 +8,5 @@ CATEGORY="Python"
 SUMMARY="Python LibYAML bindings"
 DESCRIPTION="PyYAML is YAML parser and emitter for Python, based on LibYAML."
 HOMEPAGE="http://pyyaml.org/"
+
+python_yaml_debuginfo_OBSOLETES="python3-yaml-debuginfo"
