@@ -2,7 +2,7 @@ ORIG_PN="PyYAML"
 inherit python-wheel
 
 NAME="python-yaml"
-VERSION=3.12
+VERSION=3.13
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python LibYAML bindings"
